@@ -3,10 +3,10 @@ package tijos.framework.sensor.bme280;
 import java.io.IOException;
 
 import tijos.framework.devicecenter.TiI2CMaster;
-import tijos.util.Delay;
+import tijos.framework.util.Delay;
 
 public class TiBME280Sample { 
-
+ 
 	public static void main(String[] args) {
 
 		try {

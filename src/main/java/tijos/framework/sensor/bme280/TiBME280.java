@@ -3,8 +3,8 @@ package tijos.framework.sensor.bme280;
 import java.io.IOException;
 
 import tijos.framework.devicecenter.TiI2CMaster;
-import tijos.util.Delay;
-import tijos.util.LittleBitConverter;
+import tijos.framework.util.Delay;
+import tijos.framework.util.LittleBitConverter;
 
 /**
  * BOSCH BME280 Combined humidity and pressure sensor library for TiJOS
